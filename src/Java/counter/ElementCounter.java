@@ -1,4 +1,4 @@
-package counter;
+package Java.counter;
 
 import java.util.HashMap;
 import java.util.Map;

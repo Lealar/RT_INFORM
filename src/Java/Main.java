@@ -1,4 +1,6 @@
-import counter.ElementCounter;
+package Java;
+
+import Java.counter.ElementCounter;
 
 public class Main {
     public static void main(String[] args) {
